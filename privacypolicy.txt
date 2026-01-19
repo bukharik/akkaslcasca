@@ -1,0 +1,28 @@
+Privacy Policy
+This Privacy Policy explains how the application "mairamokenova" (the “App”) collects, uses, and protects user information.
+1. Information Collection
+The App may receive limited user information from Facebook, including:
+user name;
+user ID;
+email address (if provided by Facebook).
+
+The App does not intentionally collect or store sensitive personal data.
+2. Use of Information
+The collected data is used solely for:
+user authentication;
+proper functioning of the App;
+educational and demonstration purposes.
+
+3. Data Sharing
+The App does not share user data with third parties.
+
+4. Data Storage and Security
+Reasonable measures are taken to protect user information from unauthorized access.
+
+5. Data Deletion
+
+Users may request deletion of their data at any time (see Data Deletion Instructions below).
+6. Contact Information
+
+For any questions regarding this Privacy Policy, please contact:
+okenovamairam@gmail.com
